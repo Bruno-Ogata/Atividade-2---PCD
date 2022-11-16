@@ -1,3 +1,10 @@
+/*
+Nome: Bruno Hideki Amadeu Ogata
+RA: 140884
+Programação Concorrente e Distribuida
+Atividade 2 - Exercício 3
+*/
+
 public class TrafficController {
 
     private int livre = 0;
